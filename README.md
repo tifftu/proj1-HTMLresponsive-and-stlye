@@ -1,1 +1,1 @@
-# proj1-HTMLresponsive-and-stlye
+# proj1-HTMLresponsive-and-style
